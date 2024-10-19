@@ -1,2 +1,2 @@
-# This ensures correct MIME type for .jsx files
-/*.jsx   application/javascript
+/src/main.jsx
+  Content-Type: application/javascript
